@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Quiz App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Simple quiz app make with Vue JS & Vite JS
 
-## Recommended IDE Setup
+## Start the project
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+```
+npm init
+npm run dev
+```
+
+## Build the project
+
+```
+npm run build
+```
