@@ -27,7 +27,7 @@ export default {
   },
   methods: {
     SetAnswer(evt) {
-      this.questions[currentQuestion].selected = evt.target.value
+      this.questions[this.currentQuestion].selected = evt.target.value
       evt.target.value = null
     },
     NextQuestion() {
